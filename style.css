@@ -117,7 +117,7 @@ body{font-family: 'Montserrat', sans-serif;}
     color: gray;
 }
 
-#bio-data h3 {
+#skills h3 {
     border: 1px solid #d3d3d3;
     text-transform: uppercase;
     padding: 5px;
@@ -125,16 +125,16 @@ body{font-family: 'Montserrat', sans-serif;}
     margin: 30px 0 10px;
 }
 
-#bio-data table td {
+#skills table td {
     padding: 8px;
     font-size: 15px;
     color: #000;
 }
 
-#bio-data table tr td:first-child {
+#skills table tr td:first-child {
     width: 200px;
 }
 
-#bio-data table tr td:nth-child(2) {
+#skills table tr td:nth-child(2) {
     width: 300px;
 }
